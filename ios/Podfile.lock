@@ -1,0 +1,75 @@
+PODS:
+  - background_fetch (1.3.7):
+    - Flutter
+  - CocoaLumberjack (3.8.5):
+    - CocoaLumberjack/Core (= 3.8.5)
+  - CocoaLumberjack/Core (3.8.5)
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - Flutter (1.0.0)
+  - flutter_background_geolocation (4.16.0):
+    - CocoaLumberjack (~> 3.8.5)
+    - Flutter
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - integration_test (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+  - workmanager (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - background_fetch (from `.symlinks/plugins/background_fetch/ios`)
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/darwin`)
+  - Flutter (from `Flutter`)
+  - flutter_background_geolocation (from `.symlinks/plugins/flutter_background_geolocation/ios`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+  - workmanager (from `.symlinks/plugins/workmanager/ios`)
+
+SPEC REPOS:
+  trunk:
+    - CocoaLumberjack
+
+EXTERNAL SOURCES:
+  background_fetch:
+    :path: ".symlinks/plugins/background_fetch/ios"
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/darwin"
+  Flutter:
+    :path: Flutter
+  flutter_background_geolocation:
+    :path: ".symlinks/plugins/flutter_background_geolocation/ios"
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+  workmanager:
+    :path: ".symlinks/plugins/workmanager/ios"
+
+SPEC CHECKSUMS:
+  background_fetch: 39f11371c0dce04b001c4bfd5e782bcccb0a85e2
+  CocoaLumberjack: 6a459bc897d6d80bd1b8c78482ec7ad05dffc3f0
+  connectivity_plus: ddd7f30999e1faaef5967c23d5b6d503d10434db
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_background_geolocation: bdff621611f4cb0e060ce10dc9678f05cf3d8d31
+  geolocator_apple: 6cbaf322953988e009e5ecb481f07efece75c450
+  integration_test: ce0a3ffa1de96d1a89ca0ac26fca7ea18a749ef4
+  location: d5cf8598915965547c3f36761ae9cc4f4e87d22e
+  sqflite: 673a0e54cc04b7d6dba8d24fb8095b31c3a99eec
+  workmanager: 0afdcf5628bbde6924c21af7836fed07b42e30e6
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
